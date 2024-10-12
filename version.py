@@ -1,0 +1,9 @@
+short_name = "OPBAT"
+name = "OPBAT Engine"
+major = 21
+minor = 0
+patch = 0
+status = "dev"
+module_config = ""
+website = "None"
+docs = "4.3"
